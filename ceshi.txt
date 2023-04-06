@@ -1,2 +1,2 @@
 //
-tm 测试
+@js unsafeWindow.TriggerCenter.remove("帮战结束")
